@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Bookshelf" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BorrowAppend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Enum" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PrintEnum" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Question10" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Question7" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Question8" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Question9" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Struct" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/StructBookTitle" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Tuple" vcs="Git" />
+  </component>
+</project>

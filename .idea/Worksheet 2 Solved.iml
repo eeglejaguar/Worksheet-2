@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Enum/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Struct/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tuple/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bookshelf/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BorrowAppend/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PrintEnum/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Question10/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Question11/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Question7/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Question8/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Question9/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/StructBookTitle/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/bookshelf/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/Enum/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Struct/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Tuple/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Bookshelf/target" />
+      <excludeFolder url="file://$MODULE_DIR$/BorrowAppend/target" />
+      <excludeFolder url="file://$MODULE_DIR$/PrintEnum/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Question10/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Question11/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Question7/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Question8/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Question9/target" />
+      <excludeFolder url="file://$MODULE_DIR$/StructBookTitle/target" />
+      <excludeFolder url="file://$MODULE_DIR$/bookshelf/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
